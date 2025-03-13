@@ -15,9 +15,6 @@ The **Monthly Expenses Tracker** provides a simple and efficient way to manage y
 - **View Expenses**: Get a detailed view of your expense records.
 ![alt text]({94750D2B-A430-42DA-9D50-BABE816E73BC}.png)
 
-## Description:
-The **Monthly Expenses Tracker** provides a simple and efficient way to manage your personal or business expenses. With an intuitive UI and easy-to-use buttons, users can add, update, remove, and view their expense history.
-
 ## Technologies Used:
 - **UI Design**: Dark theme with golden accents for a premium look.
 - **Graphics**: Animated floating coins for an engaging experience.
